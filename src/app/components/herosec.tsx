@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section className="flex md:flex-row flex-col-reverse items-center justify-between space-y-20 bg-[#FBEBB5] h-screen px-6 md:px-12 lg:px-24">
       {/* Text Content */}
       <div className="md:mt-20 relative md:-right-24 md:pb-0 pb-20  ">
-        <h1 className="text-3xl md:text-[60px] font-medium leading-tight text-black">
+        <h1 className="text-3xl md:text-[55px] font-medium leading-tight text-black">
           Rocket single <br /> seater
         </h1>
         <a

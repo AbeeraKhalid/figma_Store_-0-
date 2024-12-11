@@ -23,22 +23,22 @@ function Navbar() {
       {/* Desktop Menu */}
       <ul className="hidden md:flex space-x-[72px] md:relative md:left-[30%]">
         <li>
-          <Link href="/" className="text-black hover:text-gray-600 font-medium text-[18px]">
+          <Link href="/" className="text-black hover:text-gray-500 font-medium text-[17px]">
             Home
           </Link>
         </li>
         <li>
-          <Link href="/shop" className="text-black hover:text-gray-600 font-medium text-[18px]">
+          <Link href="/shop" className="text-black hover:text-gray-500 font-medium text-[17px]">
             Shop
           </Link>
         </li>
         <li>
-          <Link href="/about" className="text-black hover:text-gray-600 font-medium text-[18px]">
+          <Link href="/about" className="text-black hover:text-gray-500 font-medium text-[17px]">
             About
           </Link>
         </li>
         <li>
-          <Link href="/contact" className="text-black hover:text-gray-600 font-medium text-[18px]">
+          <Link href="/contact" className="text-black hover:text-gray-500 font-medium text-[17px]">
             Contact
           </Link>
         </li>
